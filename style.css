@@ -17,7 +17,7 @@ body {
 }
 
 .header__title {
-  margin: 30px 30 10px 0;
+  margin: 5px 0 5px 0;
   align-items: center;
   font-size: 32px;
   line-height: 1.2;
@@ -27,12 +27,12 @@ body {
 .header__subtitle {
   color: #8f8f8f;
   font-size: 16px;
-  line-height: 1.4;
-  margin: 0;
+  line-height: 4;
+  margin: 10;
 }
 
 .links {
-  width: 340px;
+  width: 410px;
   margin-bottom: 40px;
 }
 
@@ -73,7 +73,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dadada;
-  width: 300px;
+  width: 410px;
 }
 
 .links__link:last-child {
@@ -85,6 +85,8 @@ body {
   text-decoration: none;
   color: #cb782f;
 }
+
+.wrapper {text-align: center;}
 
 .links__title {
   margin: 0;
@@ -101,7 +103,7 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 6px;
-  width: 320px;
+  width: 410px;
   background: #8f8f8f;
   border-radius: 5px;
 
