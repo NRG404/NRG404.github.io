@@ -104,12 +104,12 @@ footer {
   align-items: center;
   padding: 6px;
   width: 410px;
-  background: #8f8f8f;
+  background: #CACACA;
   border-radius: 5px;
 
   font-size: 20px;
   line-height: 1.4;
 
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
 }
