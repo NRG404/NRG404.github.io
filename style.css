@@ -70,10 +70,10 @@ body {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0px 0px 10px;
-  gap: 40px;
+  padding: 0px 25px 10px;
+  gap: 25px;
   border-bottom: 1px solid #dadada;
-  width: 410px;
+  width: 360px;
 }
 
 .links__link:last-child {
@@ -103,7 +103,7 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 6px;
-  width: 410px;
+  width: 360px;
   background: #FFB942;
   border-radius: 5px;
 
